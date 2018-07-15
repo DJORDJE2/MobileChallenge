@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_height">260dp</dimen>
+    <dimen name="card_margins">16dp</dimen>
+    <dimen name="card_image_height">170dp</dimen>
+    <dimen name="card_name_height">40dp</dimen>
+    <dimen name="card_genre_height">30dp</dimen>
+    <dimen name="cards_button_width">48dp</dimen>
+    <dimen name="cards_button_height">48dp</dimen>
+</resources>
